@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xE127702fBFe87E7bdA8DF02054bb588d722226fB",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x5c980049d28525f174510687540ce69f6be5fd6d22c195ea49f7ee4743ba7027",
+  "NETWORK": {
+    "NAME": "Ethereum Classic",
+    "SYMBOL": "ETC",
+    "ID": 61
+  },
+  "NFT_NAME": "ETC Gods Pantheon Legends",
+  "SYMBOL": "ETCG",
+  "MAX_SUPPLY": 3600,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 2.5,
+  "GAS_LIMIT": 300000,
+  "SHOW_BACKGROUND": true
+}
